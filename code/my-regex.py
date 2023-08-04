@@ -54,3 +54,9 @@ print(m.span(), m.start(), m.end())
 
 fa = findall(p, s)
 print(fa)
+
+fa = findall(p,s)
+print(fa)
+
+dir(str)
+
